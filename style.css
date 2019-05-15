@@ -2,14 +2,18 @@ h1 {
     color: greenyellow;
     background: purple;
     padding: 20px;
+    font-family: Helvetica, sans-serif;
 }
 
 body {
      background: violet;
      text-align: center;
+     color: orange;
+     font-family: Courier, sans-serif;
 }
 
 form, img {;
+    border: 3px black solid;
     background: green;
     padding: 20px;
     margin: auto;
