@@ -1,0 +1,21 @@
+h1 {
+    color: greenyellow;
+    background: purple;
+    padding: 20px;
+}
+
+body {
+     background: violet;
+     text-align: center;
+}
+
+form, img {;
+    background: green;
+    padding: 20px;
+    margin: auto;
+}
+
+input.button {
+    font-size: 2em
+    font-weight: bold;
+}
